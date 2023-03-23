@@ -1,0 +1,64 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+a:hover {
+    color: #ccc;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+/* Buttons */
+button, input[type="submit"] {
+    background-color: #ccc;
+    color: #222;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #aaa;
+}
+
+/* Forms */
+label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: left;
+    align-content: center;
+    width: 150px;
+}
+
+a {
+    display: block;
+    margin: 1rem auto;
+    width: 200px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+}
